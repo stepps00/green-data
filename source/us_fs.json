@@ -1,6 +1,6 @@
 {
 	"name": "United States Department of Agriculture, Forest Service",
-	"prefix": "us-afs",
+	"prefix": “us_fs",
 	"access_date": "2019-01-01",
 	"description": "Forest Service Geodata Clearinghouse.",
 	"license_type": "Public Domain",
