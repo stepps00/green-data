@@ -1,0 +1,12 @@
+{
+	"name": "Gobierno de México",
+	"prefix": "mx_gob",
+	"access_date": "2019-05-28",
+	"description": "Government of México Data Store.",
+	"license_type": "Open Knowledge v2.1 (CC0 equivalent)",
+	"license_text": "The work must be in the public domain or available under an open license (as defined in section 2). Any additional terms accompanying the work (such as terms of use or patents held by the licensee) must not contradict the status of public domain or the terms of the license.",
+	"url_license": "http://opendefinition.org/od/2.1/es/",
+	"url_download": "https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181",
+	"url_home": "https://datos.gob.mx",
+	"url_archive": "https://web.archive.org/web/20190603022742/https://datos.gob.mx/busca/dataset/informacion-espacial-de-las-areas-naturales-protegidas-181"
+}
