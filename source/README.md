@@ -1,4 +1,4 @@
-## Name: Australian Government - Department of the Environment and Energy
+Australian Government - Department of the Environment and Energy
 ### Description: Department of the Environment and Energy's Open Data Portal
 **Prefix**: `au_capad`
 
@@ -14,7 +14,7 @@
 
 
 
-## Name: Canada.ca
+Canada.ca
 ### Description: Canada.ca is the Government of Canada's digital presence.
 **Prefix**: `ca_clab`
 
@@ -30,7 +30,7 @@
 
 
 
-## Name: Gobierno de México
+Gobierno de México
 ### Description: Government of México Data Store.
 **Prefix**: `mx_gob`
 
@@ -46,7 +46,7 @@
 
 
 
-## Name: United States Department of Agriculture, Forest Service
+United States Department of Agriculture, Forest Service
 ### Description: Forest Service Geodata Clearinghouse.
 **Prefix**: `us_fs`
 
@@ -62,7 +62,7 @@
 
 
 
-## Name: National Park Service
+National Park Service
 ### Description: Data Store of the National Park Service.
 **Prefix**: `us_nps`
 
