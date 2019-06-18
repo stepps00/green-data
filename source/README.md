@@ -1,5 +1,5 @@
 # Australian Government - Department of the Environment and Energy
-### Description: Department of the Environment and Energy's Open Data Portal
+**Description**: Department of the Environment and Energy's Open Data Portal
 **Prefix**: `au_capad`
 
 **License Type**: `CC - Attribution (CC BY)`
@@ -15,7 +15,7 @@
 
 
 # Canada.ca
-### Description: Canada.ca is the Government of Canada's digital presence.
+**Description**: Canada.ca is the Government of Canada's digital presence.
 **Prefix**: `ca_clab`
 
 **License Type**: `Open Government Licence - Canada (CC-BY)`
@@ -31,7 +31,7 @@
 
 
 # Gobierno de México
-### Description: Government of México Data Store.
+**Description**: Government of México Data Store.
 **Prefix**: `mx_gob`
 
 **License Type**: `Open Knowledge v2.1 (CC0 equivalent)`
@@ -47,7 +47,7 @@
 
 
 # United States Department of Agriculture, Forest Service
-### Description: Forest Service Geodata Clearinghouse.
+**Description**: Forest Service Geodata Clearinghouse.
 **Prefix**: `us_fs`
 
 **License Type**: `Public Domain`
@@ -63,7 +63,7 @@
 
 
 # National Park Service
-### Description: Data Store of the National Park Service.
+**Description**: Data Store of the National Park Service.
 **Prefix**: `us_nps`
 
 **License Type**: `Public Domain`
