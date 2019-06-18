@@ -1,0 +1,12 @@
+{
+	"name": "Australian Government - Department of the Environment and Energy",
+	"prefix": "au_capad",
+	"access_date": "2019-06-15",
+	"description": "Department of the Environment and Energy's Open Data Portal",
+	"license_type": "CC - Attribution (CC BY)",
+	"license_text": "This dataset is available under the CC-BY data licencing model and users are required to acknowledge the Australian Government, Department of the Environment and Energy as the source of the data in any of their uses. When citing the data please use ‘Collaborative Australian Protected Areas Database (CAPAD) 2016, Commonwealth of Australia 2017’.",
+	"url_license": "http://www.environment.gov.au/fed/catalog/search/resource/details.page?uuid=%7B4448CACD-9DA8-43D1-A48F-48149FD5FCFD%7D",
+	"url_download": "http://www.environment.gov.au/about-us/environmental-information-data/open-data",
+	"url_home": "http://www.environment.gov.au/",
+	"url_archive": "https://web.archive.org/web/20190618033105/http://www.environment.gov.au/fed/catalog/search/resource/details.page?uuid=%7B4448CACD-9DA8-43D1-A48F-48149FD5FCFD%7D"
+}
