@@ -1,0 +1,12 @@
+{
+	"name": "Nationally Designated Protected Areas Inventory",
+	"prefix": "cdda",
+	"access_date": "2019-08-03",
+	"description": "The European Environment Agency's Nationally Designated Protected Areas Inventory database",
+	"license_type": "CC-BY (equivalent)",
+	"license_text": "Information, documents and material available on this website and for which the EEA holds the rights of use are public and may be re-used without prior permission, free of charge, for commercial or non-commercial purposes, provided that the EEA is always acknowledged as the original source of the material and that the original meaning or message of the content is not distorted.",
+	"url_license": "https://www.eea.europa.eu/legal/copyright",
+	"url_download": "https://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-14",
+	"url_home": "https://www.eea.europa.eu/",
+	"url_archive": "https://web.archive.org/web/20190805001900/https://www.eea.europa.eu/data-and-maps/data/nationally-designated-areas-national-cdda-14"
+}
