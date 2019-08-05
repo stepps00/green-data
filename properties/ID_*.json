@@ -1,0 +1,4 @@
+{
+	"property_name": "ID_*",
+	"description": "A concordance identifier, where the * in the property name is replaced by the source name. For example, the 'ID_CDDA' property contains a concordance value for the CDDA database."
+}

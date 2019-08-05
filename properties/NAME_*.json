@@ -1,0 +1,4 @@
+{
+	"property_name": "NAME_*",
+	"description": "The localized name of a feature, where the * in the property name is replaced by the translated language's two-character ISO language code."
+}

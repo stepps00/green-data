@@ -1,0 +1,4 @@
+{
+	"property_name": "LAT",
+	"description": "The inner-latitude value of the feature's geometry, typically sourced from Mapshaper."
+}

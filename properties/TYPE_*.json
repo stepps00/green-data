@@ -1,0 +1,4 @@
+{
+	"property_name": "TYPE_*",
+	"description": "A translated designation for a given feature, where the * in the property name is replaced by the translated language's two-character ISO language code."
+}

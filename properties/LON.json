@@ -1,0 +1,4 @@
+{
+	"property_name": "LON",
+	"description": "The inner-longitude value of the feature's geometry, typically sourced from Mapshaper."
+}

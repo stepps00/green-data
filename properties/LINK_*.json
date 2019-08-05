@@ -1,0 +1,4 @@
+{
+	"property_name": "LINK_*",
+	"description": "A URL link, where the * in the property name is replaced by the source name. For example, the 'LINK_WK' property contains a link to the feature's Wikipedia page."
+}
