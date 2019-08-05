@@ -13,4 +13,4 @@ JSON files with data source, licensing information, and external links.
 
 ### coverage
 
-<img width="1036" alt="screen shot 2019-02-16 at 6 16 45 pm" src="https://user-images.githubusercontent.com/18567700/59651548-1d2d8380-913f-11e9-8595-9ed02990ecdd.png">
+<img width="1036" src="https://user-images.githubusercontent.com/18567700/62431453-83189f00-b6dc-11e9-8eee-f87ba660e716.png">
