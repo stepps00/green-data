@@ -1,15 +1,8 @@
 # green-data
 
-Aggregated open data of parks, open spaces, and similarly designated land.
+This repository contains aggregated data of parks, open spaces, and areas with similar designations. This data is openly licensed and sourced from a variety of organizations, but please review all source information for any attribution requirements.
 
-
-### data
-
-Shapefiles, partitioned by country.
-
-### source
-
-JSON files with data source, licensing information, and external links.
+Today, data is available per country, in shapefile format, with a limited set of properties.
 
 ### coverage
 
