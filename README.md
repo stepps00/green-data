@@ -8,4 +8,4 @@ Today, data is available per country, in shapefile format, with a limited set of
 
 ### coverage
 
-<img width="1036" src="https://user-images.githubusercontent.com/18567700/63234152-e92b1900-c1e8-11e9-8942-9edf9e3fb2b3.png">
+<img width="1036" src="https://user-images.githubusercontent.com/18567700/63238445-6b243d80-c1fb-11e9-8120-512e7d1d5c9e.png">
