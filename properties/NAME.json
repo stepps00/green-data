@@ -1,4 +1,4 @@
 {
 	"property_name": "NAME",
-	"description": "The localized name of a feature."
+	"description": "The name of a feature, typically in English."
 }

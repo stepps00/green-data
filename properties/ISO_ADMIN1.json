@@ -1,4 +1,4 @@
 {
 	"property_name": "ISO_ADMIN1",
-	"description": "The two-character ISO country code for the feature's parent first-level subdivision."
+	"description": "The two-character ISO country code for the feature's parent first-level administrative subdivision."
 }
