@@ -2,7 +2,6 @@
 
 # Gobierno de México
 **Description**: Government of México Data Store.
-
 **Prefix**: `mx_gob`
 
 **License Type**: `Open Knowledge v2.1 (CC0 equivalent)`
@@ -19,7 +18,6 @@
 
 # Nationally Designated Protected Areas Inventory
 **Description**: The European Environment Agency's Nationally Designated Protected Areas Inventory database
-
 **Prefix**: `cdda`
 
 **License Type**: `CC-BY (equivalent)`
@@ -36,7 +34,6 @@
 
 # National Park Service
 **Description**: Data Store of the National Park Service.
-
 **Prefix**: `us_nps`
 
 **License Type**: `Public Domain`
@@ -53,7 +50,6 @@
 
 # United States Department of Agriculture, Forest Service
 **Description**: Forest Service Geodata Clearinghouse.
-
 **Prefix**: `us_fs`
 
 **License Type**: `Public Domain`
@@ -70,7 +66,6 @@
 
 # Australian Government - Department of the Environment and Energy
 **Description**: Department of the Environment and Energy's Open Data Portal
-
 **Prefix**: `au_capad`
 
 **License Type**: `CC - Attribution (CC BY)`
@@ -87,7 +82,6 @@
 
 # Canada.ca
 **Description**: Canada.ca is the Government of Canada's digital presence.
-
 **Prefix**: `ca_clab`
 
 **License Type**: `Open Government Licence - Canada (CC-BY)`
@@ -99,3 +93,19 @@
 **Download URL**: [http://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e](http://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e)
 
 **Archived URL**: [https://web.archive.org/web/20180616065608/https://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e](https://web.archive.org/web/20180616065608/https://open.canada.ca/data/en/dataset/e1f0c975-f40c-4313-9be2-beb951e35f4e)
+
+
+
+# The Library of the National Congress of Chile
+**Description**: The Library of the National Congress of Chile's geodatabase of 'wild areas protected by the state for all of Chile'
+**Prefix**: `cl-bcn`
+
+**License Type**: `CC-BY 3.0`
+
+**License Text**: `Vector maps are made available under the principle of transparency of the public service. Individuals or institutions can freely use this information, indicating as a source the Library of the National Congress of Chile. The material only has a referential character, and under no circumstances should it be used to perform work that requires geodetic precision.
+
+**License URL**: [https://www.bcn.cl/siit/mapas_vectoriales](https://www.bcn.cl/siit/mapas_vectoriales)
+
+**Download URL**: [https://www.bcn.cl/siit/mapas_vectoriales](https://www.bcn.cl/siit/mapas_vectoriales)
+
+**Archived URL**: []()
