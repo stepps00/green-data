@@ -1,0 +1,13 @@
+{
+	"name": "The Library of the National Congress of Chile",
+	"prefix": "cl-bcn",
+	"access_date": "2019-08-20",
+	"description": "The Library of the National Congress of Chile's geodatabase of 'wild areas protected by the state for all of Chile'",
+	"license_type": "CC-BY 3.0",
+	"license_text": "Vector maps are made available under the principle of transparency of the public service. Individuals or institutions can freely use this information, indicating as a source the Library of the National Congress of Chile. The material only has a referential character, and under no circumstances should it be used to perform work that requires geodetic precision.",
+	"url_license": "https://www.bcn.cl/siit/mapas_vectoriales",
+	"url_download": "https://www.bcn.cl/siit/mapas_vectoriales",
+	"url_home": "https://www.bcn.cl",
+	"url_archive": "",
+    "note": "This site cannot be archived. An image of the site's contents and license link can be found here: https://user-images.githubusercontent.com/18567700/63402496-807ea080-c390-11e9-84df-2e49e6ebfe82.png"
+}
