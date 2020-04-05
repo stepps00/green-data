@@ -1,6 +1,4 @@
-# green-data
-
-This repository contains aggregated, openly licensed geo-data for parks, open spaces, and areas with similar designations. No rights reserved. 
+Aggregated, openly licensed geo-data for parks, open spaces, and areas with similar designations.
 
 Note that data is sourced from a variety of organizations; please review all source information before use.
 
