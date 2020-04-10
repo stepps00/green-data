@@ -1,9 +1,7 @@
-Aggregated, openly licensed geo-data for parks, open spaces, and areas with similar designations.
+### green-data
 
-Note that data is sourced from a variety of organizations; please review all source information before use.
+Aggregated, openly licensed geo-data for parks, open spaces, and areas with similar designations. Note that data is sourced from a variety of organizations; please review all source information before use. Data is available per country, in shapefile format, with a limited set of properties.
 
-Today, data is available per country, in shapefile format, with a limited set of properties.
+### Coverage
 
-### coverage
-
-<img width="1024" src="https://user-images.githubusercontent.com/18567700/78509340-32ad8180-7742-11ea-938c-2bbc7043efd3.png">
+<img width="1024" src="https://user-images.githubusercontent.com/18567700/78963463-696df980-7aac-11ea-8664-0c618d1cc405.png">
