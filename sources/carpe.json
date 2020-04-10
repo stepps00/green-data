@@ -1,0 +1,11 @@
+{
+	"name": "Central Africa Regional Program for the Environment",
+	"prefix": "carpe",
+	"access_date": "2020-04-09",
+	"description": "CARPE is a long-term initiative of the United States Government to promote sustainable forest management, biodiversity conservation, and climate change mitigation in the Congo Basin through increased local, national, and regional natural resource management capacity.",
+	"license_type": "CC-BY 4.0 (International)",
+	"license_text": "You are free to copy and redistribute the material in any medium or format, and to transform and build upon the material for any purpose, even commercially. You must give appropriate credit, provide a link to the license, and indicate if changes were made. When displaying and citing the data, use the appropriate credit as listed for the corresponding dataset in the download section.",
+	"url_license": "https://carpe-worldresources.opendata.arcgis.com/datasets/mefdd::protected-areas?geometry=1.250%2C-4.615%2C27.331%2C3.069",
+	"url_download": "https://carpe-worldresources.opendata.arcgis.com/datasets/mefdd::protected-areas?geometry=1.250%2C-4.615%2C27.331%2C3.069",
+	"url_home": "https://carpe.umd.edu/"
+}
